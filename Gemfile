@@ -8,7 +8,7 @@ gem "less-rails-bootstrap", "~> 2.1.1"
 gem "rails-backbone", "~> 0.7.2"
 gem "handlebars_assets", "~> 0.6.4"
 
-gem "mysql2", "~> 0.3.11"
+gem "pg"
 
 gem "thin", "~> 1.4.1"
 gem "foreman"
